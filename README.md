@@ -1,8 +1,9 @@
 # A-Survival-Guide-to-Earth-Online
-&emsp;&emsp;为地球设计的在线生存指南文档已经在开源网站上发布。
 
-&emsp;&emsp;这个仓库中的一些内容可以使用开源的人工智能大型模型进行优化和抛光。如果有任何错误，在未来的仓库，请帮助提交贡献更新或通过电子邮件发送，并指出要点，可以修改。经人工审核通过后，将入库更正。
+&emsp;&emsp;The survival guide designed for Planet Earth is now available on this open-source repository.
 
-&emsp;&emsp;电子邮件地址：himhim01@qq.com
+&emsp;&emsp;Some of the content in this repository has been optimized and polished with the help of open-source large language models. If you spot any errors, please feel free to contribute corrections via pull requests, or reach out by email pointing out the key points that need revision. Once approved through manual review, the corrections will be merged into the repository.
 
-&emsp;&emsp;其他相关沟通渠道：QQ群、飞书群、不和谐群。
+&emsp;&emsp;📧 **Email:** himhim01@qq.com
+
+&emsp;&emsp;💬 **Other communication channels:** QQ Group · Feishu (Lark) Group · Discord Server

@@ -1,6 +1,8 @@
 # A-Survival-Guide-to-Earth-Online
-&emsp;&emsp;An online survival guide document designed for the ral Earth has been made available in an open-source rpository.
+&emsp;&emsp;为地球设计的在线生存指南文档已经在开源网站上发布。
 
-&emsp;&emsp;Some of the contents in this warehouse may be optimized and polished using open-source AI large models. If there are any errors in the future in the warehouse, please help submit contributions for updates or send via email and indicate the points that can be modified. After being manually reviewed and approved, it will be stored for correction.
+&emsp;&emsp;这个仓库中的一些内容可以使用开源的人工智能大型模型进行优化和抛光。如果有任何错误，在未来的仓库，请帮助提交贡献更新或通过电子邮件发送，并指出要点，可以修改。经人工审核通过后，将入库更正。
 
-&emsp;&emsp;Email address: himhim01@qq.com
+&emsp;&emsp;电子邮件地址：himhim01@qq.com
+
+&emsp;&emsp;其他相关沟通渠道：QQ群、飞书群、不和谐群。
